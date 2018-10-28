@@ -1,0 +1,11 @@
+python 3.6.6
+sudo apt install python3
+
+pip3 9.0.1
+sudo apt install python3-pip
+
+Scrapy 1.5.1
+pip3 install Scrapy
+
+virtualenv 16.0.0
+pip3 install env
