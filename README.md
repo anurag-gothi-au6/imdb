@@ -1,9 +1,12 @@
 # imdb
-A scrapy module to find product details from the listed amazon product.
-It will find product details of 5 pages.
+A scrapy module to find next air date of episode or season of your favourite series.
 
 ### Prerequisites
 Install all the packages mentioned in the Requirements.txt file.
+
+### Features
+Find the next air date of your favoutire series
+Can find multiple series at a time
 
 ### Creating Virtual Environment
 create a virtual env for your project : $ virtualenv _Anyname_
